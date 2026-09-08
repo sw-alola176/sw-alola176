@@ -1,6 +1,10 @@
 # Hi, I'm Raheem 👋
 
-Full-stack developer focused on building production-grade, client-facing web applications — from architectural decisions down to hands-on backend implementation.
+A full-stack developer based in Nigeria.
+
+I'm focused on building production-grade, client-facing web applications — from architectural decisions down to hands-on backend implementation.
+
+I also work on fun side projects whenever I can.
 
 ## Currently Building...
 
@@ -27,18 +31,18 @@ A full-stack e-commerce application for a client, with a strong focus on:
 ![Paystack](https://img.shields.io/badge/Paystack-000000?style=flat&logo=paystack&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Email**
+**Email utilities**
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
 ![Postmark](https://img.shields.io/badge/Postmark-FFDE00?style=flat)
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
 - Designing NodeJS/Supabase schemas with Row Level Security policies that balance security and maintainability
 - Weighing trigger-based vs. application-level logic for auditability, observability, and flexibility
 - Building checkout and payment flows that stay correct under concurrency and partial failure
 - Taking products from architectural planning through to production-ready implementation
 
-## 📚 Currently Learning
+## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -47,7 +51,8 @@ A full-stack e-commerce application for a client, with a strong focus on:
 - Machine Learning with Python
 - Java
 
-## 📫 Get in Touch
+## Get in Touch
+- Email: lilwade4001@gmail.com
 
 Feel free to reach out or check out my pinned repositories below.
 
