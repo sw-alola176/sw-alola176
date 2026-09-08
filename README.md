@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Raheem 👋
 
-<!--
-**sw-alola176/sw-alola176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building production-grade, client-facing web applications — from architectural decisions down to hands-on backend implementation.
 
-Here are some ideas to get you started:
+## 🛠️ Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full-stack e-commerce application for a client, with a strong focus on:
+- **Checkout integrity** — idempotent Stripe webhook handling, server-side price recomputation, and atomic optimistic locking to prevent overselling and race conditions
+- **Database design** — Row Level Security enabled from day one, integer-based monetary storage, and constraint-driven data safety nets
+- **Scalable architecture** — designed to comfortably handle tens of thousands of users and five-figure daily order volumes
+
+## 💻 Tech Stack
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
+
+**Backend & Data**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Payments & Infra**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Email**
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
+![Postmark](https://img.shields.io/badge/Postmark-FFDE00?style=flat)
+
+## 🎯 Areas of Focus
+
+- Designing Supabase schemas with Row Level Security policies that balance security and maintainability
+- Weighing trigger-based vs. application-level logic for auditability, observability, and flexibility
+- Building checkout and payment flows that stay correct under concurrency and partial failure
+- Taking products from architectural planning through to production-ready implementation
+
+## 📫 Get in Touch
+
+Feel free to reach out or check out my pinned repositories below.
+
+---
+
+*This README reflects ongoing work — updated as projects evolve.*
