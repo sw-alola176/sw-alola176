@@ -2,7 +2,7 @@
 
 Full-stack developer focused on building production-grade, client-facing web applications — from architectural decisions down to hands-on backend implementation.
 
-## 🛠️ Currently Building
+## Currently Building...
 
 A full-stack e-commerce application for a client, with a strong focus on:
 - **Checkout integrity** — idempotent Paystack webhook handling, server-side price recomputation, and atomic optimistic locking to prevent overselling and race conditions
@@ -10,7 +10,7 @@ A full-stack e-commerce application for a client, with a strong focus on:
 - **Scalable architecture** — designed to comfortably handle tens of thousands of users and five-figure daily order volumes
 - **Check it out here** -> https://k29-rho.vercel.app/  
 
-## 💻 Tech Stack
+## Tech Stack Currently...
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
