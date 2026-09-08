@@ -16,22 +16,22 @@ A full-stack e-commerce application for a client, with a strong focus on:
 
 ## Tech Stack Currently...
 
-**Frontend**
+**Frontend ->**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
 
-**Backend & Data**
+**Backend & Data ->**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Payments & Infra**
+**Payments & Infra ->**
 ![Paystack](https://img.shields.io/badge/Paystack-000000?style=flat&logo=paystack&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Email utilities**
+**Email utilities ->**
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat)
 ![Postmark](https://img.shields.io/badge/Postmark-FFDE00?style=flat)
 
