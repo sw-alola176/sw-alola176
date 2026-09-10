@@ -55,6 +55,7 @@ A full-stack e-commerce application for a client, with a strong focus on:
 - Email: lilwade4001@gmail.com
 
 Feel free to reach out or check out my pinned repositories below.
+And for my works you can check out my website :)
 
 ---
 
